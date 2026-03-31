@@ -1,4 +1,4 @@
-# RenAIssance OCR Tasks
+# RenAIssance Tasks
 
 ## Overview
 
