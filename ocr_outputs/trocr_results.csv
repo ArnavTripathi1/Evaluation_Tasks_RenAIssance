@@ -1,0 +1,205 @@
+image_path,source,ground_truth,trocr_raw,trocr_lexicon,cer_raw,cer_lexicon
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones2351628_page_1.jpg,porcones2351628,"POR
+DOÑA CATALINA DE 
+Laçarraga y Zarate, viuda de Marco
+Antonio de Caycedo, y el señor
+Fiscal.
+C O N
+Don Antonio del Barco y Recalde,
+Cavallero de la Orden de 
+Santiago.
+
+Pretende doña Catalina, que don An-
+tonio ha de ser condenado a q avien
+dosele quitado el habito, e insignias
+de la Orden, sea entregado a la justi-", que. que. que. que. que. que. que. que. que. que. que. que. que. que. que...... que....... que....... que.. que........ que......... que.......... que.............. que............ que...............,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.9108527131782945,0.875968992248062
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones2351628_page_2.jpg,porcones2351628,"- left
+ca de Caycedo su hija, donzella noble y honesta, a 
+que concedielle en su voluntad, y para esto, y violar su
+castidad, aver quebrantado su casa, siendo de muy luci-
+da nobleza y calidad, entrando en ella denoche a des-
+hora con llaves falsas, y otras vezes por las ventanas, y
+texados, y otras sacandola de su casa, y llevandola a o-
+", que. que. que. que. que. que. que. que. que. que. que. que. que. que... que..... que...... que........ que. que. que. que.. que.. que.... que.... que..... que..... que..... que.... que. que. que. que. que. que. que. que. que. que. que. que. que.. que...,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8768115942028986,0.8731884057971014
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones228381646_page_2.jpg,porcones228381646,"ticia de esta parte en ajuitar con certeza, y claridad
+el hecho verdadero de este negocio, que consiste
+en que Iacinto Gomez Pimentel fue preso el mes
+de Agosto del año passado de 1643. por querella,
+que de él dio doña Leonor Rauasco, por dezirla
+auia estrupado, y queriendole prender vnos Algua
+ziles de esta Corte, les hizo resistencia, y so", que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.... que.... que.... que..... que........ que........... que................... que...................... que..............,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.872791519434629,0.8621908127208481
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones74861650_page_2.jpg,porcones74861650,"Artículo primero 
+3. Aunque es regular en estos delitos venéreos la
+prueba por presunciones, ex responso Pontifi-
+cis in cap. literis 12. de presumpt. … incap. Proterea de
+testib us cum notatis ibidem per Canonitas, …Bart in
+1.2…num.3.ff.ad l Iul de adult. Está sin embargo
+la adultera tan convencida de su delito, que más se pue
+de decir (", que. que. que. que. que. que. que. que. que. que.. que. que. que.. que...... que...... que....... que......... que................. que................... que.............................,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8790035587188612,0.8576512455516014
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/buendiainstruccion_page_2.jpg,buendiainstruccion,"Al
+INFINITAMENTE AMABLE
+NIÑO JESUS.
+A Vos, Dulcissimo Niño
+JESUS, que no solo os
+dignasteis de llamaros
+Doctor de los Niños, 
+sino también de assis-
+tir como Niño entre los Doctores, 
+se consagra humilde esta pequeña
+Instrucción de los Niños. Es assi, 
+que ella también se dirige a la ju-
+ventud;", que. que. que. que. que. que. que. queos. que. que. que.. que..... que...... que.. que...... que......... que............. que................ que.... que................... que..............,que. que. que. que. que. que. que. queda que. que. que. que. que. que. que. que. que. que. que. que. que.,0.9176954732510288,0.8765432098765432
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones228381646_page_5.jpg,porcones228381646,"14	Otra carta de pago otorgada ante el dicho
+Escriuano, en 19. de Enero de 1640. por Iacinto
+Gomez, en que confiessa auer recibido de su padre 9?
+333. reales, que le tocan, como a vno de tres here-
+deros de doña Beatriz de Silua su madre de su par-
+te, de la dote que lleuó al matrimonio. Y ratifica
+las dos cartas de pago", que. que. que. que. que. que. que. que. que. que. que. que.. que..... que....... que......... que............... que. que............ que. que...... que........... que......... que........... que....,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.875968992248062,0.8527131782945736
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/covarrubiastesorolengua_page_8.jpg,covarrubiastesorolengua,"CARTA DE EL
+LICENCIADO DON BALTASAR
+SEBASTIAN NAVARRO DE ARROYTA, COLEGIAL DEL
+Colegio de San Salvador de Oviedo, el mayor de Salamanca, Sacristan
+mayor, y Canonigo de la santa Catedral Iglesia
+de la Ciudad de Teruel, al Autor
+deste libro. 
+QUANDO En Madrid bese a v. m. las manos, demas del contento que siempre recibo
+de hazerlo", que. que. que. que. que. que. que. que. que. que. que... que. que..... que....... que......... que....... que............................ que........................................,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.9413919413919414,0.9084249084249084
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones228381646_page_3.jpg,porcones228381646,"der seis mil ducados, que auian tocado a su hijo Ia-
+cinto Gomez por su legitima materna: y para que
+dello constasse pidio compulsorio, para que Anto
+nio Cadenas Escriuano de Prouincia, le diesse vn
+testimonio de la particion, que se auia hecho de
+los bienes de doña Beatriz de Silua, entre Atonio
+Gomez Pimentel, y sus hijos.
+
+6	Por testimonio", que. que. que. que. que. que. que. que. que. que. que.. que. que. que. que...... que..... que...... que........ que............ que................. que.... que.................... que............,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8904593639575972,0.8657243816254417
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/covarrubiastesorolengua_page_7.jpg,covarrubiastesorolengua,"CENSURA DE
+PEDRO DE VALENCIA CORONISTA
+General de el Rey nuestro
+Señor. 
+POr mandado del Consejo Supremo de Castilla, he visto el libro in-
+titulado, Tesoro de la lengua Castellana, que compuso el Licen-
+ciado Don Sebastian de Covarruvias y Orozco, Canonigo, y Maesses-
+cuela de la Iglesia de Cuenca, Consultor de el Santo Oficio de la", que. que. que. que. que. que. que. que. que. que. que. que. que.. que.... que........ que........ que. que..... que. que... que..... que...... que....... que....... que........... que............. que........,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8920863309352518,0.8597122302158273
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones228381646_page_4.jpg,porcones228381646,"cobraren, se ayan de partir entre todos.
+
+10	Antonio Gomez Oimentel, respondió, que
+se auia de declarar no auer lugar la pretensió de do
+ña Leonor Rauasco, porque el tenia pagado a
+su hijo todo lo que montaua su legitima materna,
+y mucha cantidad mas. Y que tenia pretension en
+el juizio de particion, se le auian de hazer buenos
+seis mil duc", que. que. que. que. que. que. que. que. que. que. que. que. que. que.. que... que... que..... que.... que........ que.......... que................. que.................... que....................,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8673835125448028,0.8566308243727598
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/buendiainstruccion_page_3.jpg,buendiainstruccion,"guro disseño de su edad: la Reli-
+gion para con Dios en la devota
+assistencia a los Templos; la piedad
+con los Padres en la obediencia
+mas rendida; y la modestia, y de-
+seo de saber, con los mayores, 
+gustando mas de oir, y pregun-
+tar, que de definir, y resolver. Bien
+que esto en vuestra infinita Sabi-
+duria fue soberana dignacion, y
+", que que. que. que. que. que. que. que. que. que. que. que. que... que. que... que...... que........ que....... que. que........ que........... que......... que............. que.............. que........,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8974358974358975,0.8717948717948718
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/buendiainstruccion_page_4.jpg,buendiainstruccion,"crianza de la niñez. Assi sea, 
+Divinissimo Niño, por vuestra
+gracia, assi sea, a vuestra ma-
+yor gloria. Amen. 
+CENSURA DEL R. P. ANTONIO CO-
+dorniu de la Compañía de jesus, Maes-
+tro que fue de Theologia, Examinador
+Synodal de los Obispados de Gerona, Ur-
+gel, y Barcelona, Oc.
+DE orden del Ilust", que. que. que. que. que. que. que. que. que. que. que. que. que. que.. que..... que......... que................ que. que.................. que. que....... que............ que........ que.......... que.,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8975409836065574,0.8770491803278688
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/covarrubiastesorolengua_page_9.jpg,covarrubiastesorolengua,"Conocimiento de las cosas depende del de los vocablos, el que ayuda a esta, ayuda mucho a todas 
+las ciencias: y assi los grandes Filosofos antiguos trabajaron mucho en esta parte, como fue Platon 
+en su Dialogo Cratilo, que oy en dia leemos, a cuya imitacion los Latinos trataron esta facultad, 
+aunque con mayores ayudas que los Griegos, por t", que. que. que. que. que. que. que. que. que. que. que. que.. que. que... que...... que..... que....... que.............. que.......................... que.................................,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8975265017667845,0.8833922261484098
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/guardiolatratadonobleza_page_12.jpg,guardiolatratadonobleza,"POR quanto por parte de
+vos fray Ivan Benito Guar
+diola monje professo de
+la orden de S. Benito, nos
+fue fecha relacion q vos
+aviais compuesto un libro
+intitulado Tratado de
+nobleza y de los titulos y dictados que oy
+dia tienen los varones claros y grandes de 
+España, el qual era muy util y provechoso, 
+y para lo hazer aviais trabajado", que. que. que. que. que. que. que. que. que. que.... que....... que. que....... que........ que........ que.............. que........................ que............................,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.9010989010989011,0.8864468864468864
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones228381646_page_1.jpg,porcones228381646,"POR
+ANTONIO GOMEZ
+Oimentel, mercader, padre de
+Iacinto Gomez Pi-
+mentel.
+CON
+Doña Leonor Rabasco; y doña
+Bernarda de Almeyda
+su hija.
+
+Non occidentur parentes pro filijs, nec filij pro
+parentibus. Sed vnusquisque pro peccato suo
+morietur. Deuteron. Cap. 24.
+
+Pretende Antonio Gomez Pi
+mentel se reuoque el auto de la Sala", que. que. que. que. que. que. que. que. que. que. que.. que.. que........ que........ que........... que.................... que..................................................,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8992537313432836,0.8843283582089553
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones74861650_page_1.jpg,porcones74861650,"DEUS IN ADIUTORIUM MEUM INTENDE
+POR
+ 
+Don Felipe Leizado
+Caballero del Orden Santiago, Ca-
+pitan de Caballos del Ejército
+de Milán.
+En la causa criminal de uxoricidio que
+contra él se figue.
+ 
+1. Para que con la distinción se consiga
+la brevedad, y claridad de este papel, lo
+dividiremos en dos artículos. En el
+primero defend", que. que. que. que. que. que. que. que. que. que.. que...... que.......... que................. que.............................. que...... que............................. que..,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.9101123595505618,0.9026217228464419
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones74861650_page_3.jpg,porcones74861650,"platillos si no nos gobernamos con prudencia. Jacome y, 
+el cocinero hablan siempre en su lengua, con parientes
+de Matias; y plega a Dios, que una vez u otra no de-
+mos en la trampa. Bien sé que estas mis palabras se echa-
+rán al aire porque vos joya mía no queréis hacer ca-
+so: porque si….. temor de lo que yo digo, no os", que. que. que. que. que. que. que. que. que. que.. que. que. que... que.... que...... que........ que........ que............. que........................ que.............................,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8798449612403101,0.8488372093023255
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones2351628_page_3.jpg,porcones2351628,"- right
+admitio concurso de acosadores de la muerte con la viu-
+da del muerto, eo magis fiendo persona calificada, y tal
+lexos de colusion, como lo muestra la diligencia, y per-
+severancia con que ha seguido, y sigue este pleyto: y la
+colusion esta en la hija casada oy con el matador de su
+padre, cuyo perdon (quando lo huviera) no se admite,
+", que. que. que. que. que. que. que. que. que. que. que. que. que. que... que.... que...... que....... que. que. que. que.. que. que... que.... que.... que...... que...... que.... que. que. que. que. que. que. que.. que. que.. que. que.. que.. que.....,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8678571428571429,0.8535714285714285
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones74861650_page_4.jpg,porcones74861650,"tener aquí fuese por falta de voluntad, o bien por mi
+seria de daros el alimento como merecéis, porque si esto
+fuese respecto a vuestra persona, juzgariades la ver-
+dad, pero si después considerasedes, que pasando todo
+por manos de criados, hiciésemos como algunos años
+ha, que por aquella niñera de los pollos vinieron en
+conocimiento", que. que. que. que. que. que. que. que. que. que. que. que. que.. que... que.... que..... que...... que....... que.............. que...................... que.......................... que.. que..,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.875,0.8642857142857143
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/porcones2351628_page_4.jpg,porcones2351628,"- left
+Bosi. tit. de pace, vers. Quando vxor occiditur a viro,
+Iulius Clar. q. 58. num. 31. vers. contingit etiam. Bona-
+cosa in suis communibus, vers. pax vxoricidae, lib. I. Pe-
+trus Cabal. in. resolut. in resolut. crimina. casu 58. an. 10.
+Et tandem, los delitos sobre que es este pleyto son
+tan atroces que bast", que que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.. que... que.. que... que.... que.... que...... que.... que........ que..... que........ que......... que....... que....... que...... que.,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.833976833976834,0.8185328185328186
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/guardiolatratadonobleza_page_14.jpg,guardiolatratadonobleza,"caer e incurrir en las penas contenidas en
+la dicha pragmatica e leyes de nuestros
+Reynos. Y mandamos que durante el di-
+cho tiempo persona alguna sin vuestra li-
+cencia no lo pueda imprimir ni vender so
+pena que el que lo imprimiere aya perdido
+y pierda todos y qualesquier libros, mol-
+des y aparejos que de los dichos libros tu
+viere, y mas incurra", que. que. que. que. que. que. que. que. que.. que..... que.......... que................ que.................................... que. que.............................. que....,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8954703832752613,0.8815331010452961
+/kaggle/input/datasets/arnavtripathi01/renaissance-dataset/cropped_images/guardiolatratadonobleza_page_13.jpg,guardiolatratadonobleza,"dia de la fecha desta nuestra cedula podais
+imprimir el dicho libro que de suso se ha-
+ze mencion por el original que en el nuestro
+Consejo se vio que va rubricado y firmado
+al fin de Pedro del Marmol nuestro escri-
+vano de camara de los que residen en el 
+nuestro Consejo, con que antes que se ven-
+da le traygays ante ellos jusntamente con
+el dicho original para q se", que. que. que. que. que. que. que. que. que. que..... que........ que. que.......... que........ que............... que.......................... que.............................,que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que. que.,0.8888888888888888,0.8754208754208754
