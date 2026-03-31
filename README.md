@@ -32,9 +32,7 @@ Will feature an end-to-end LLM/VLM pipeline (e.g., Gemini) embedded throughout t
 
 ## Results
 
-### Specific Test I
-
-### 1. Dataset Statistics
+Dataset Statistics
 
 | Feature | Count |
 | ------- | ----- |
