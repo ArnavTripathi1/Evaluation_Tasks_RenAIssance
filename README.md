@@ -6,8 +6,8 @@ This repo is my submission of evaluation tasks for **Automating text recognition
 
 ## Notebooks
 
-1. Notebook [`RenAIssance_NB1.ipynb`](./RenAIssance_NB1.ipynb) contains data parsing, PDF-to-image conversion, and ground-truth alignment.
-2. Notebook [`RenAIssance_NB2.ipynb`](./RenAIssance_NB2.ipynb) contains the core OCR model (TrOCR), rare character analysis, and baseline evaluation.
+1. Notebook [RenAIssance_NB1.ipynb](./RenAIssance_NB1.ipynb) contains data parsing, PDF-to-image conversion, and ground-truth alignment.
+2. Notebook [RenAIssance_NB2.ipynb](./RenAIssance_NB2.ipynb) contains the core OCR model (TrOCR), rare character analysis, and baseline evaluation.
 
 ## Problem Statement
 
@@ -28,7 +28,7 @@ Implements a Transformer-based OCR model (`microsoft/trocr-base-printed`) to dec
 ## Specific Test II. Text recognition of handwritten sources
 
 *(Ongoing Work - To be added)*
-Will feature an end-to-end LLM/VLM pipeline (e.g., Gemini) embedded throughout the reading, interpretation, and spelling correction stages.
+Will feature an end-to-end LLM/VLM pipeline (e.g., Gemini) embedded throughout the reading, interpretation and spelling correction stages.
 
 ## Results
 
@@ -42,14 +42,6 @@ Will feature an end-to-end LLM/VLM pipeline (e.g., Gemini) embedded throughout t
 | Unique Characters (incl. rare/archaic) | > 80 |
 | Ground Truth Transcriptions Parsed | ✓ |
 
-### 2. OCR Evaluation Metrics
-
-*(Note: Update these values with the final outputs from your `trocr_results.csv`)*
-
-| Model Architecture | Rare Character Boosting | LLM Post-Processing | CER (Character Error Rate) | WER (Word Error Rate) |
-| ------------------ | ----------------------- | ------------------- | -------------------------- | --------------------- |
-| TrOCR Baseline | ✗ | ✗ | TBD% | TBD% |
-| TrOCR + RARE_BOOST | ✓ | ✗ | TBD% | TBD% |
 
 ## Repository Structure
 
